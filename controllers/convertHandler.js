@@ -41,32 +41,7 @@ function ConvertHandler() {
     return result;
      // console.log(result);
     
-     
-    
-    
-    
-//     var result = eval(nonLetters); 
-    
-//     console.log(result);
-//     if (result == undefined) {
-//       return result = "invalid number";
-//     } 
-    
-//     var y = nonLetters.split(' ');
-// if(y.length > 1){
-//     var z = y[1].split('/');
-//     console.log(+y[0] + (z[0] / z[1]));
-// }
-// else{
-//     var z = y[0].split('/');
-//     if(z.length > 1){
-//         console.log(z[0] / z[1]);
-//     }
-//     else{
-//         console.log(z[0]);
-//     }
-// }
-    
+
   };
   
   this.getUnit = function(input) {
